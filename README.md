@@ -5,6 +5,7 @@ Hello there 😊🥰
 
 class Tech Recruiter():
     def __init__(self):
+    
         self.Name = "Kelly"
         self.Location = "São Paulo"
         self.Languages = ["Portuguese - BR", "English - US"]
