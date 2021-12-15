@@ -10,10 +10,10 @@ class Tech Recruiter():
         self.Languages = ["Portuguese - BR", "English - US"]
         self.Company = "ZAX"
         self.Age = 24
-	self.Profission = "Psychologist"
+	self.Profession = "Psychologist"
         self.Interests = {
             "TV shows":["Grey's Anatamoy", "The Bold Type", "Jane The Virgin", "Dynasty"],
-            "Books":["Mindset", "Comece pelo porque", "Essencialismo"],
+            "Books":["Mindset", "Comece pelo Porquê", "Essencialismo"],
             "Animes":["Ao no Exorcist", "Ano Hana", "Kimi ni Todoke",
             "Hobbies":["Sair para comer hambúrguer", "Ver séries, animes e coisas sobre a cultura pop"]
         }
