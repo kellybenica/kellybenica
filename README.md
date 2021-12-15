@@ -1,6 +1,6 @@
 Hello there 😊🥰
 
- from Kell_Workplace import greeetings 🤩🥰
+ From Kell_Workplace import greeetings 🤩🥰
 
 class Tech Recruiter():
 
@@ -22,9 +22,8 @@ class Tech Recruiter():
     def say_hi():
         print("Thanks for being here, hope you find something interesting ;D")
         return greetings
-
-me = TechRecruiter()
-me.say_hi()
+	me = TechRecruiter()
+	me.say_hi()
  
 
  <div> 
